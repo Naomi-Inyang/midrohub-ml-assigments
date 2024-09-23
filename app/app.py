@@ -7,7 +7,6 @@ from statsmodels.tsa.deterministic import DeterministicProcess
 from sklearn.linear_model import LinearRegression
 from xgboost import XGBRegressor
 import io
-from PIL import Image
 import base64
 
 app = Flask(__name__)
